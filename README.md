@@ -29,7 +29,7 @@ with a variety of cloud services.
 </p>
 
 - 🔭 I’m currently working on Planinng Pocker 
-- 🌱 I’m currently learning Angular RX JS
+- 🌱 I’m currently learning Angular RX JS and NGRX
 - 📫 How to reach me: https://www.linkedin.com/in/sounik/
 <!--
 **sounik/sounik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
