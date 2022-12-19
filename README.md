@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Sounik Chandra, a qualified cloud professional and Solution Architect from India. My expertise is in researching and developing the following technological stack, as well as working effectively 
+I am Sounik Chandra, a qualified cloud professional and Solution Architect. My expertise is in researching and developing the following technological stack, as well as working effectively 
 with a variety of cloud services. 
 <p>
   <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
